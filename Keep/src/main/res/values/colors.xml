@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Keep">#584f60</color>
+    <color name="main">#594c6e</color>
+    <color name="sport0">#4ad8a0</color>
+    <color name="sport1">#19b77c</color>
+    <color name="sport2">#998bfc</color>
+    <color name="sport3">#6e54f4</color>
+    <color name="sport4">#85a8fc</color>
+    <color name="sport5">#d1b976</color>
+    <color name="sport6">#9aa0e4</color>
+    <color name="sport7">#c0a8b6</color>
+    <color name="sport8">#cad4da</color>
+    <color name="sport9">#e0c6a1</color>
+    <color name="grey">#f0f0f0</color>
+</resources>
