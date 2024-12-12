@@ -1,1 +1,4 @@
-get Weather from "https://www.jisuapi.com/api/weather/"
+- get Weather from "https://www.jisuapi.com/api/weather/"
+- There is something wrong in parseJson
+
+- If you want to use the other api to get data, you should change the function "parseJson()".
